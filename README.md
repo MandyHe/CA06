@@ -6,7 +6,9 @@ ML_CA06_KNN_Recommender
 # Project Overview
 
 At scale, this would look like recommending products on Amazon, articles on Medium, movies on Netflix, or videos on YouTube. Although, we can be certain they all use more efficient means of making recommendations due to the enormous volume of data they process. However, we could replicate one of these recommender systems on a smaller scale using what we have learned here in this article. Let us build the core of a movies recommender system.
+
 • Number of attributes (Columns): 11
+
 • Number of records (Rows): 30
 
 # What question are we trying to answer?
