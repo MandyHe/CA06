@@ -13,11 +13,11 @@ At scale, this would look like recommending products on Amazon, articles on Medi
 
 # What question are we trying to answer?
 
-Given a movies data set, what are the 5 most similar movies to a movie query?
+Given a movie dataset, what are the 5 most similar movies to a movie query?
 
 # The project objective
 
-Building a movie recommendation to help users find similar movies when they type in one movie's name. 
+Building a movie recommendation system to help users find similar movies when they type in one movie's name. 
 
 
 # Dataset
