@@ -18,7 +18,9 @@ Given a movies data set, what are the 5 most similar movies to a movie query?
 Building a movie recommendation to help users find similar movies when they type in one movie's name. 
 
 
-# No need to download dataset, the code contain data url
+# Dataset
+
+No need to download dataset, the code contain data url
 
 1. Dataset: https://github.com/ArinB/CA05-kNN/raw/master/movies_recommendation_data.csv
 
@@ -44,8 +46,9 @@ from sklearn.neighbors import KNeighborsClassifier
 # Installation
 
 - Mounted the google drive to make files readable: drive.mount('/content/drive/')
-- Enjoy the code
-
+- Read the csv URL in Colab
+- Run the code
+- Get the result of 5 similar movies
 
 # Contact info
 
